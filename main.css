@@ -1,0 +1,32 @@
+.microquakes-charts .bar-labels text {
+  font-family: 'sans-serif';
+  font-size: 10px;
+  fill: #1a1a1a;
+}
+
+.microquakes-charts .clockticks text {
+  font-family: 'sans-serif';
+  font-size: 11px;
+  font-weight: bold;
+  fill: #1a1a1a;
+}
+
+.microquakes-charts .axis {
+  font-family: 'sans-serif';
+  font-size: 10px;
+}
+
+.microquakes-charts .axis .label {
+  font-family: 'sans-serif';
+  font-size: 10px;
+  font-weight: normal;
+}
+
+.microquakes-charts__description {
+  color: #9c9c9c;
+  font-size: 14px;
+}
+
+#microquakes-map {
+  height: 500px;
+}
